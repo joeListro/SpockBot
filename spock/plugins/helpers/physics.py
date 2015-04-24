@@ -12,7 +12,7 @@ Entities and Transportation. Ideally someone will decompile the client with MCP
 and document the totally correct values and behaviors.
 """
 #Gravitational constants defined in blocks/(client tick)^2
-PLAYER_ENTITY_GAV = 0.08
+PLAYER_ENTITY_GAV = 0.07
 THROWN_ENTITY_GAV = 0.03
 RIDING_ENTITY_GAV = 0.04
 BLOCK_ENTITY_GAV  = 0.04
